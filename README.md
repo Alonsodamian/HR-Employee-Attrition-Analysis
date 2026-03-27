@@ -1,5 +1,3 @@
-# HR-Employee-Attrition-Analysis
-
 # HR Employee Attrition Analysis
 
 Proyek analisis dan prediksi attrition karyawan untuk perusahaan **Jaya Jaya Maju** menggunakan machine learning.
